@@ -10,6 +10,5 @@ Azure Static Web app URL - https://lively-grass-0969d6b10.3.azurestaticapps.net
 ## Screenshots
 Home Page
 ![image](https://github.com/20A31A0580/FRT-project-Modified/assets/109956260/ace13170-3fb2-42dc-966d-17b9488874c0)
-/n
 HealthBot
 ![image](https://github.com/20A31A0580/FRT-project-Modified/assets/109956260/9d1b4c5b-40f4-4b09-a664-080c6873a06f)
